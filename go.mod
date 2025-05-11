@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.23.4
 
 require (
-	github.com/PuerkitoBio/goquery v1.10.1
+	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/bits-and-blooms/bitset v1.20.0
 	github.com/corpix/uarand v0.2.0
 	github.com/go-resty/resty/v2 v2.16.2
